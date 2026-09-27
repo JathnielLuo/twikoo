@@ -1,1 +1,1 @@
-module.exports = require("../packages/server-vercel/dist/index.js");
+export { default } from "../packages/server-vercel/dist/index.mjs";
